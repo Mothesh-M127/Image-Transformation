@@ -32,8 +32,8 @@ Display all the Transformed images.
 
 # Program:
 ```python
-# Developed By : S MANOJ KUMAR
-# Register Number: 212221230056
+# Developed By : M MOTHESH
+# Register Number: 212221230066
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
